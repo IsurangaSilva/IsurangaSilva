@@ -32,7 +32,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats (Dark Mode)</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IsurangaSilva&theme=dark&show_icons=true&count_private=true" width="45%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsurangaSilva&layout=compact&theme=dark&langs_count=8" width="45%"/>
