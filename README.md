@@ -10,31 +10,34 @@
 ---
 
 <h2 align="center">👨‍💻 About Me</h2>
-<table align="center">
-<tr border="none">
-<td width="50%" align="left" valign="top">
-
-- 🎓 Undergraduate at **SLIIT – BSc in IT (2021–2025)**
-- 🔬 Researching **AI Voice Companion** for digital health
-- 💻 Experienced in **MERN Stack**, **Kotlin**, and **UI/UX Design**
-- 📈 Strong background in building scalable web & mobile apps
-- 📬 Reach me at: **isurangasulakshana@gmail.com**
-- 🎯 Fun Fact: I love coding with emotional intelligence 😄
-
-</td>
-<td width="50%" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding Animation">
-</td>
-</tr>
-</table>
+<div align="center" style="display: flex; justify-content: center;">
+  <table>
+    <tr>
+      <td>
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation">
+      </td>
+      <td>
+        <ul>
+          <li>🎓 Undergraduate at <strong>SLIIT – BSc in IT (2021–2025)</strong></li>
+          <li>🔬 Researching <strong>AI Voice Companion</strong> for digital health</li>
+          <li>💻 Skilled in <strong>MERN Stack</strong>, <strong>Kotlin</strong>, and <strong>UI/UX Design</strong></li>
+          <li>📈 Passionate about building intelligent & scalable solutions</li>
+          <li>📬 Email me: <strong>isurangasulakshana@gmail.com</strong></li>
+          <li>🎯 Fun Fact: I code with emotional intelligence 😄</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 <h2 align="center">📊 GitHub Stats (Dark Mode)</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsurangaSilva&theme=dark&show_icons=true&count_private=true" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsurangaSilva&layout=compact&theme=dark&langs_count=8" width="47%"/>
-  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=IsurangaSilva&theme=dark&show_icons=true&count_private=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsurangaSilva&layout=compact&theme=dark&langs_count=8" width="45%"/>
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsurangaSilva&theme=dark" width="90%"/>
 </p>
 
