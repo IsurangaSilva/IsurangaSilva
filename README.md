@@ -9,6 +9,7 @@
 
 ---
 
+<h2 align="center">👨‍💻 About Me</h2>
 <table align="center">
 <tr border="none">
 <td width="50%" align="left" valign="top">
@@ -29,12 +30,12 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats (Dark Mode)</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsurangaSilva&theme=gradient&show_icons=true&count_private=true" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsurangaSilva&layout=compact&theme=gradient&langs_count=8" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IsurangaSilva&theme=dark&show_icons=true&count_private=true" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsurangaSilva&layout=compact&theme=dark&langs_count=8" width="47%"/>
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsurangaSilva&theme=highcontrast" width="90%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsurangaSilva&theme=dark" width="90%"/>
 </p>
 
 ---
@@ -87,15 +88,4 @@
   <a href="https://github.com/IsurangaSilva/IsurangaSilva/raw/main/Isuranga_CV.pdf">
     <img src="https://img.shields.io/badge/Download-CV-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
-</p>
-
----
-
-<h2 align="center">🌟 Thank you for visiting!</h2>
-<p align="center">
-  <img src="https://media.giphy.com/media/l41lH9OMFzKmZ7iA4/giphy.gif" width="200"/>
-</p>
-
-<p align="center">
-  <em>"Empowering ideas with code and compassion."</em>
 </p>
